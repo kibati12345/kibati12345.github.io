@@ -3,7 +3,7 @@ html {
   }
   div
   {
-    /* sizing the text*/
+    /* sizing and positioning the text*/
     width :200px;
     height: 200px;
     margin: auto;
