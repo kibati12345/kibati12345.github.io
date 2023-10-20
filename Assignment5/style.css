@@ -10,12 +10,20 @@ html {
     line-height: 9;
 
     /* word */
-  font-size: 1.1rem;
-  text-align: center;
-  color: white;
+    font-size: 1.1rem;
+    text-align: center;
+    color: white;
+    /* Text shadow */
+    text-shadow: 1px 1px 1px black;
+
+    /* boarder radius */
+    border-radius:10px ;
+    border:1px solid #990000;
 
 
+    
+    background-color: #990000;
   }
 
-  
+
   /* Your CSS below here */
