@@ -8,6 +8,14 @@ html {
     height: 200px;
     margin: auto;
     line-height: 9;
+
+    /* word */
+  font-size: 1.1rem;
+  text-align: center;
+  color: white;
+
+
   }
+
   
   /* Your CSS below here */
