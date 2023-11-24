@@ -1,3 +1,10 @@
+
+	// Name: Omotosho-Oboro Oluwakibati
+	// File: Index.html
+	// Date: 17th September 2023
+
+
+
 // set up canvas
 
 const canvas = document.querySelector('canvas');
