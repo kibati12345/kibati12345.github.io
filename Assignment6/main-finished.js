@@ -89,6 +89,8 @@ while (balls.length < 25) {
    );
 
   balls.push(ball);
+  count++;
+  parseFloat.textContent = "Ball count:" + count;
 }
 
 function loop() {
