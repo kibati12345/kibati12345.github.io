@@ -98,9 +98,11 @@ function loop() {
    ctx.fillRect(0, 0,  width, height);
 
    for (const ball of balls) {
+      if(ball.exists){
      ball.draw();
      ball.update();
      ball.collisionDetect();
+   }
    }
 
    requestAnimationFrame(loop);
