@@ -173,6 +173,8 @@ while (balls.length < 25) {
    );
 
   balls.push(ball);
+  count++;
+  para.textContent = 'Ball count: ' + count;
 }
 
 function loop() {
