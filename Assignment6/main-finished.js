@@ -1,3 +1,8 @@
+
+	// Name: Omotosho-Oboro Oluwakibati
+	// File: main-finished.js
+	// Date: 24th november 2023
+
 // set up canvas
 const para = document.querySelector('p');
 let count = 0;
