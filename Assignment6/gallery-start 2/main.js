@@ -21,7 +21,7 @@ const alts = {
 
 const newImage = document.createElement('img');
 newImage.setAttribute('src',`images/${image}`);
-newImage.setAttribute('alt', xxx);
+newImage.setAttribute('alt', alts[image]);
 thumbBar.appendChild(newImage);
 
 /* Wiring up the Darken/Lighten button */
